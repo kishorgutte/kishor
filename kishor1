@@ -1,1 +1,22 @@
-This file is to test clone
+//This file is to test clone
+
+class HelloWorld{
+
+private int Age;
+private string name; 
+
+
+HelloWorld()
+{
+
+
+
+
+}
+
+HelloWorld(int a, string name)
+{
+this.Age=a;
+this.name=name;
+
+}
